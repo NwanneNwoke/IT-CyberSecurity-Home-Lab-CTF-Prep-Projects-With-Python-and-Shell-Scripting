@@ -1,4 +1,4 @@
-# LarryMattix_GitHub_Projects
+# Larry Mattix's IT and cybersecurity-focused home lab and CTF preparation projects built using Python and shell scripting
 
 This repository contains a curated set of IT and cybersecurity-focused projects that reflect my hands-on learning, Capture The Flag (CTF) participation, and virtual lab setup experience. These projects demonstrate core skills in networking, systems administration, encryption, and Python development—supporting my path toward a cybersecurity career.
 
