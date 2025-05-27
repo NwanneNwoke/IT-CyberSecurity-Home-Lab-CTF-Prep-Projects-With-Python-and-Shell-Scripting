@@ -1,0 +1,2 @@
+# IT-CyberSecurity-Home-Lab-CTF-Prep-Projects-With-Python-and-Shell-Scripting
+This repository contains a collection of IT and cybersecurity-focused home lab and CTF preparation projects built using Python and shell scripting. It showcases hands-on experience with system automation, vulnerability scanning, ticketing systems and real-world DevOps practices using both Windows Server and Ubuntu environments. 
